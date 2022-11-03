@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wQURANERFARIWALA_16190020",
+      "sha256_cert_fingerprints": [
+        "98:D4:CB:3B:26:68:27:3C:65:1B:68:48:AF:5B:F5:E6:60:2C:23:D8:44:8D:D1:0E:02:91:32:D1:6A:D8:14:BD"
+      ]
+    }
+  }
+]
